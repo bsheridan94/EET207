@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1430424737 source:/home/brian/project/EET207/HelloWorld/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
